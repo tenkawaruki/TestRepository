@@ -7,6 +7,7 @@ public class Test3 : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log ("横格");
+		Debug.Log ("ゴリラ");
 	}
 	
 	// Update is called once per frame
